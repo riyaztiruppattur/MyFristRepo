@@ -18,5 +18,11 @@ Git remote add origin " get the repository link from GItHub"
 
 Git Pull origin master ( to pull files from central repository (origin master) to the local master)
 
+operations:
+
+adding new files to the repository
+git add - A 
+git commit -a -m " commit message"
+
 GIT PUSH  - to push files to GIT Server
 GIT PULL  - to get files from the server
